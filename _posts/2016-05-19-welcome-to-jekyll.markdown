@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  xsundayx의 블로그입니다.
+title:  xsundayx of Blog
 date:   2016-05-19 15:29:01 +0900
 categories: jekyll blog !
 ---
